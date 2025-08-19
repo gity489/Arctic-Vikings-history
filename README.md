@@ -5,10 +5,10 @@
     /* Black background with repeating blue stripes */
     background: repeating-linear-gradient(
       45deg,         /* angle of the stripes */
-      black,         /* start color */
-      black 40px,    /* stripe size */
-      blue 40px,     /* stripe start */
-      blue 80px      /* stripe end */
+      cyan ,         /* start color */
+      cyan 40px,    /* stripe size */
+      black 40px,     /* stripe start */
+      black 80px      /* stripe end */
     );
 
     color: white; /* readable text */
