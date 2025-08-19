@@ -20,3 +20,17 @@
 
 <section id="the true reason why he is brought up" class="active">
 <h2>the longest break mattie fattie took...</h2>
+<p> at this point mattie had it rough to the point he left staff duties for awhile</p>
+
+<p>2 WHOLE MONTH'S LATER HE CAME BACK FROM BACK</p>
+<p>but FV had change..there was zero events and chat was a little scary to him </p
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    document.body.innerHTML = document.body.innerHTML.replace(/Arctic Vikings/g, '<span style="color: blue; font-weight: bold;">Arctic Vikings</span>');
+  });
+</script>
+
+</section>
+
+
