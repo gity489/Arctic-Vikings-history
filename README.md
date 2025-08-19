@@ -6,12 +6,12 @@
     background: repeating-linear-gradient(
       45deg,         /* angle of the stripes */
       cyan ,         /* start color */
-      cyan 40px,    /* stripe size */
-      black 40px,     /* stripe start */
-      black 80px      /* stripe end */
+      cyan 500px,    /* stripe size */
+      black 10px,     /* stripe start */
+      black 70px      /* stripe end */
     );
 
-    color: white; /* readable text */
+    color: black; /* readable text */
     font-family: Arial, sans-serif;
   }
 </style>
