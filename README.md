@@ -28,10 +28,10 @@
 <h2>the reason why i created AVK</h2>
 <p>i was kinda hoping for a community i could use to have fun and bring people together through CPAB</p>
 
-<p style="color: cyan;">Arctic Vikings opening event picture(s)</p>
+<p style="color: dark red;">Arctic Vikings opening event picture(s)</p>
 
 
-<p style="color: #343434;">MAX 3</p>
+<p style="color: dark red;">MAX 3</p>
 
 <img src="https://cdn.discordapp.com/attachments/1349427999568691271/1407274932488110160/Screenshot_20250819_100751.jpg?ex=68a58269&is=68a430e9&hm=e483705eacfed8b97a43941bee94b3df9abba4fafd67db7a8fb093b62164ffa8&" alt="Viking fail" width="400">
 <p>the first ever event</p>
@@ -42,18 +42,18 @@
 <p>Arctic Vikings was a name a i got in my mind and before i even started thinking of creating an army i already knew what to name it.</p>
 
 <p>the meaning about Arctic is the northernmost region on Earth, surrounding the North Pole</p>
-<h2 style=" color:cyan;">recent events</h2>
+<h2 style=" color:dark blue ;">recent events</h2>
 
 <p>unscheduled event </p>
-<p style=" color:cyan;">MAX 4</p>
+<p style=" color:dark red;">MAX 4</p>
 <img src="https://cdn.discordapp.com/attachments/1405700987422769222/1406667382973534369/Screenshot_20250817_174304_com.brave.browser.jpg?ex=68a546d6&is=68a3f556&hm=281b26987c6133d70b5bebc1f2ff8c61706d757b49b4465f7c13f0a19f284921&" alt="Viking fail" width="400">
 
 <p>Europe event</p>
-<p style=" color:cyan;">MAX 2</p>
+<p style=" color:dari red;">MAX 2</p>
 <img src="https://cdn.discordapp.com/attachments/1405700987422769222/1406740170052735028/Screenshot_20250817_224003_com.brave.browser.jpg?ex=68a4e1e0&is=68a39060&hm=db680cc62f959b14bf75b43f6bada11c812142977bfb1e46b2fcfd06bab84fef&" alt="Viking fail" width="400">
 
 <p>unscheduled event</p>
-<p style=" color:cyan;">MAX 3</p>
+<p style=" color:dark red;">MAX 3</p>
 <img src="https://cdn.discordapp.com/attachments/1405700987422769222/1406987769892573244/Screenshot_20250818_150115_com.brave.browser.jpg?ex=68a51fb8&is=68a3ce38&hm=b1499df28808833ae69fccc16f829b4cf2ab9fc7e2b8491046f47fa253050366&" alt="Viking fail" width="400">
 
 
