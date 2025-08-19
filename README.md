@@ -1,64 +1,69 @@
 <html>
 <head>
-  <style>
+<style>
   body {
-    background-color: blue;
-    color: white; /* so text is readable */
+    /* Black background with repeating blue stripes */
+    background: repeating-linear-gradient(
+      45deg,         /* angle of the stripes */
+      black,         /* start color */
+      black 40px,    /* stripe size */
+      blue 40px,     /* stripe start */
+      blue 80px      /* stripe end */
+    );
+
+    color: white; /* readable text */
     font-family: Arial, sans-serif;
   }
 </style>
 
+
 <section id="introduction" class="active">
   <h2>Introduction</h2>
-  <p>Welcome to the story of Kidboy12edit </p>
-  <img src="https://cdn.discordapp.com/attachments/1349427999568691271/1407171427534241893/Screenshot_20250819_031605.jpg?ex=68a52204&is=68a3d084&hm=b4968bb603b6912c316db075295557bc6337867f9e6963e8f3f609e16275c7f6" alt="Arctic Vikings illustration">
+  <p>Welcome to the history of Arctic Vikings </p>
+  <img src="https://cdn.discordapp.com/attachments/1349427999568691271/1407271754757443664/file_00000000f54861f5a19d5d5255e98132.png?ex=68a57f74&is=68a42df4&hm=1afbe45a5ba8dee4af9312b4bbc682e510a4af0155f1796f316a1d448b1d2e69&" alt="Arctic Vikings illustration">
 </section>
 
 
-<section id="the rising of Kidboy12edit" class="active">
-<h2>the rising of Kidboy12edit</h2>
-<p>one faithful night in the roblox server Kidboy12edit got a dm from a figure named yellow typer who dmed Kidboy12edit and recruited Kidboy12edit and a few moments later Kidboy12edit who went by the name mattiee fattie boom boom back then had met a few of the members and attended his first event</p>
+<section id="the reason why i created AVK" class="active">
+<h2>the reason why i created AVK</h2>
+<p>i was kinda hoping for a community i could use to have fun and bring people together through CPAB</p>
 
-<p style="color: yellow;"> mattie fattie boom boom had a bad taste in fashion LOL</p>
+<p style="color: cyan;">Arctic Vikings opening event picture(s)</p>
 
 
-<p style="color: #FFD700;">FV aka Fire Vikings had a fashion event and mattie fattie boom boom attended it and got a 8😭!</p>
+<p style="color: #343434;">MAX 3</p>
 
-<img src="https://cdn.discordapp.com/attachments/1349427999568691271/1407175947702108180/Screenshot_20250819_033427.jpg?ex=68a52639&is=68a3d4b9&hm=069ccd5e3ab66136d8753e32a8138cb1f5637b22ff218369e5a6fdbd5453982f" alt="Viking ship" width="400">
-<p>who can blame look at it</p>
+<img src="https://cdn.discordapp.com/attachments/1349427999568691271/1407274932488110160/Screenshot_20250819_100751.jpg?ex=68a58269&is=68a430e9&hm=e483705eacfed8b97a43941bee94b3df9abba4fafd67db7a8fb093b62164ffa8&" alt="Viking fail" width="400">
+<p>the first ever event</p>
 </section>
 
-<section id="the true reason why he is brought up" class="active">
-<h2>the longest break mattie fattie took...</h2>
-<p> at this point mattie had it rough to the point he left staff duties for awhile</p>
+<section id="the lore behind why it's called Arctic Vikings" class="active">
+<h2>the lore behind why it's called Arctic Vikings</h2>
+<p>Arctic Vikings was a name a i got in my mind and before i even started thinking of creating an army i already knew what to name it.</p>
 
-<p>2 WHOLE MONTH'S LATER HE CAME BACK FROM BACK</p>
-<p>but FV had change..there was zero events and chat was a little scary to him </p
+<p>the meaning about Arctic is the northernmost region on Earth, surrounding the North Pole</p>
+<h2 style=" color:cyan;">recent events</h2>
 
-<p>about 4 days ago Kidboy12edit who now goes by the name matt had created the army Arctic Vikings</p>
-</section>
+<p>unscheduled event </p>
+<p style=" color:cyan;">MAX 4</p>
+<img src="https://cdn.discordapp.com/attachments/1405700987422769222/1406667382973534369/Screenshot_20250817_174304_com.brave.browser.jpg?ex=68a546d6&is=68a3f556&hm=281b26987c6133d70b5bebc1f2ff8c61706d757b49b4465f7c13f0a19f284921&" alt="Viking fail" width="400">
 
+<p>Europe event</p>
+<p style=" color:cyan;">MAX 2</p>
+<img src="https://cdn.discordapp.com/attachments/1405700987422769222/1406740170052735028/Screenshot_20250817_224003_com.brave.browser.jpg?ex=68a4e1e0&is=68a39060&hm=db680cc62f959b14bf75b43f6bada11c812142977bfb1e46b2fcfd06bab84fef&" alt="Viking fail" width="400">
 
-<section id="THE OPENING EVENT" class="active">
-<h2>AVK aka Arctic-Vikings opening</h2>
-<img src="https://cdn.discordapp.com/attachments/1405700987422769222/1406044078264811581/Screenshot_20250816_003022_Brave.jpg?ex=68a4fc97&is=68a3ab17&hm=88442662f33f0f591b528478e18814bd60e247c22d235a2f6262fdf2a99d899b" alt="Viking fail" width="400">
-
-
-<p>the opening event got AVK the right amount of penguins needed to register under s/m army's league </p>
-
-<p>old uni or new uni?</p>
-
-<p>old one</p>
-<img src="https://cdn.discordapp.com/attachments/1349427999568691271/1407188812244717679/Screenshot_20250819_041938.jpg?ex=68a53235&is=68a3e0b5&hm=a7ab207fbcf36e05033240f252b25969ac797e5414dc59f52e3996d2cfb15e94" alt="Viking ship" width="400">
+<p>unscheduled event</p>
+<p style=" color:cyan;">MAX 3</p>
+<img src="https://cdn.discordapp.com/attachments/1405700987422769222/1406987769892573244/Screenshot_20250818_150115_com.brave.browser.jpg?ex=68a51fb8&is=68a3ce38&hm=b1499df28808833ae69fccc16f829b4cf2ab9fc7e2b8491046f47fa253050366&" alt="Viking fail" width="400">
 
 
-<p>new one</p>
-<img src="https://cdn.discordapp.com/attachments/1349427999568691271/1407190142585933864/Screenshot_20250819_043101.jpg?ex=68a53372&is=68a3e1f2&hm=fc47c70f9316088cb8ce1ccddb777fb56022cd1a5a44e884ddc3436d8a03f0ce" alt="Viking ship" width="400">
+<section id="the current AVK founder" class="active">
+<h2>the current AVK founder</h2>
+<p>Kidboy12edit(Matthew)</p>
 
-</head>
+made by:matthew 
+hosted by:Github
 
-
-</html>
 
 
 
