@@ -25,12 +25,5 @@
 <p>2 WHOLE MONTH'S LATER HE CAME BACK FROM BACK</p>
 <p>but FV had change..there was zero events and chat was a little scary to him </p
 
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    document.body.innerHTML = document.body.innerHTML.replace(/Arctic Vikings/g, '<span style="color: blue; font-weight: bold;">Arctic Vikings</span>');
-  });
-</script>
-
+<p>about 4 days ago Kidboy12edit who now goes by the name matt had created the army Arctic Vikings</p>
 </section>
-
-
