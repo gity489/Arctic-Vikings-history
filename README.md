@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -23,11 +23,18 @@
       text-align: center;
       margin: 15px 0;
     }
-    nav a {
-      margin: 0 15px;
-      text-decoration: none;
-      color: #003366;
+    nav button {
+      margin: 0 10px;
+      padding: 10px 15px;
+      border: none;
+      background-color: #003366;
+      color: white;
       font-weight: bold;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+    nav button:hover {
+      background-color: #0055aa;
     }
     main {
       max-width: 900px;
@@ -35,7 +42,11 @@
       padding: 0 20px;
     }
     section {
+      display: none;
       margin-bottom: 40px;
+    }
+    section.active {
+      display: block;
     }
     h2 {
       color: #003366;
@@ -59,132 +70,14 @@
 <body>
   <header>
     <h1>Arctic Vikings History</h1>
-    <p>Exploring the life and adventures of the Arctic Vikings</p>
+    <p>Explore the life, exploration, and legacy of Arctic Vikings</p>
   </header>
 
   <nav>
-    <a href="#overview">Overview</a>
-    <a href="#exploration">Exploration</a>
-    <a href="#legacy">Legacy</a>
+    <button onclick="showPage('overview')">Overview</button>
+    <button onclick="showPage('exploration')">Exploration</button>
+    <button onclick="showPage('legacy')">Legacy</button>
   </nav>
 
   <main>
-    <section id="overview">
-      <h2>Overview</h2>
-      <p>The Arctic Vikings were seafaring Norse people who explored and settled in the northernmost regions. They survived harsh climates and left fascinating stories of their culture, survival skills, and adventurous expeditions.</p>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Viking_ship_model.jpg" alt="Viking ship">
-    </section>
-
-    <section id="exploration">
-      <h2>Exploration</h2>
-      <p>The Vikings sailed across icy seas in their longships, discovering new lands in Greenland, Iceland, and parts of North America. They were skilled navigators using stars, landmarks, and the sun for guidance.</p>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Viking_longship.jpg" alt="Viking longship on water">
-    </section>
-
-    <section id="legacy">
-      <h2>Legacy</h2>
-      <p>Arctic Vikings contributed to trade, settlement patterns, and cultural exchange across northern Europe. Their stories, artifacts, and ruins give us a window into their unique way of life.</p>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Viking_treasure.jpg" alt="Viking artifacts">
-    </section>
-  </main>
-
-  <footer>
-    <p>© 2025 Arctic Vikings History | Created by Your Name</p>
-  </footer>
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Arctic Vikings History</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-      background-color: #f0f8ff;
-      color: #333;
-    }
-    header {
-      background-color: #003366;
-      color: white;
-      padding: 20px 0;
-      text-align: center;
-    }
-    nav {
-      text-align: center;
-      margin: 15px 0;
-    }
-    nav a {
-      margin: 0 15px;
-      text-decoration: none;
-      color: #003366;
-      font-weight: bold;
-    }
-    main {
-      max-width: 900px;
-      margin: 20px auto;
-      padding: 0 20px;
-    }
-    section {
-      margin-bottom: 40px;
-    }
-    h2 {
-      color: #003366;
-    }
-    footer {
-      background-color: #003366;
-      color: white;
-      text-align: center;
-      padding: 15px 0;
-      position: fixed;
-      width: 100%;
-      bottom: 0;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 5px;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Arctic Vikings History</h1>
-    <p>Exploring the life and adventures of the Arctic Vikings</p>
-  </header>
-
-  <nav>
-    <a href="#overview">Overview</a>
-    <a href="#exploration">Exploration</a>
-    <a href="#legacy">Legacy</a>
-  </nav>
-
-  <main>
-    <section id="overview">
-      <h2>Overview</h2>
-      <p>The Arctic Vikings were seafaring Norse people who explored and settled in the northernmost regions. They survived harsh climates and left fascinating stories of their culture, survival skills, and adventurous expeditions.</p>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Viking_ship_model.jpg" alt="Viking ship">
-    </section>
-
-    <section id="exploration">
-      <h2>Exploration</h2>
-      <p>The Vikings sailed across icy seas in their longships, discovering new lands in Greenland, Iceland, and parts of North America. They were skilled navigators using stars, landmarks, and the sun for guidance.</p>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Viking_longship.jpg" alt="Viking longship on water">
-    </section>
-
-    <section id="legacy">
-      <h2>Legacy</h2>
-      <p>Arctic Vikings contributed to trade, settlement patterns, and cultural exchange across northern Europe. Their stories, artifacts, and ruins give us a window into their unique way of life.</p>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Viking_treasure.jpg" alt="Viking artifacts">
-    </section>
-  </main>
-
-  <footer>
-    <p>© 2025 Arctic Vikings History | Created by Your Name</p>
-  </footer>
-</body>
-</html>
+    <section id="overvie
